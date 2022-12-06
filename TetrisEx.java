@@ -397,8 +397,7 @@ public class TetrisEx extends JFrame {
          try{
          for(int z = 0; z<4 ; z++)
               if(gameboard[curY[z]+1][curX[z]] == 1){
-            	  count++;
-                  if(count == 7)count = 0;
+            	  count = (int)(Math.random()*7);
                     for (int j= 0; j<4;j++){
                       
                           gameboard[curY[j]][curX[j]] = 1;
