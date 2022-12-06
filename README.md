@@ -13,4 +13,13 @@
 테트리스 구현
 --------
 
-<img width="80%" src="{이미지 경로}"/>
+<img width="80%" src="https://user-images.githubusercontent.com/90100472/205893273-ec0e9d5c-f8f6-4e94-a94a-079d4e3c8c7d.gif"/>
+
+
+
+참조한 오픈소스
+--------
+https://github.com/tksrl0379/Tetris
+
+라이선스에 대한 언급이 없어 사용하게 되었습니다.  
+
